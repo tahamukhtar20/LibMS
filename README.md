@@ -53,8 +53,3 @@ Before running the project, ensure you have the following prerequisites installe
 ## Contributors
 
 - Muhammad Taha Mukhtar
-
-Contributions to this project are encouraged! Feel free to submit bug reports, feature requests, or pull requests.
-
----
-This README provides an overview of the library management system project, detailing key classes and their purposes, prerequisites for running the project, and its functionalities. Customize it as necessary and consider adding additional sections or project-specific details.
